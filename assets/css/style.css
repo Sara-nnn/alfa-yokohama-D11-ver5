@@ -387,6 +387,11 @@ button {
   height: 42px;
 }
 
+.header__logo__size{
+  width: 80%;
+  margin-bottom: 10px;
+}
+
 .header__name {
   font-size: 20px;
   line-height: 1.1;
